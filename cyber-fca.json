@@ -1,40 +1,113 @@
-{
-	"Language": "en",
-	"PreKey": "",
-	"AutoUpdate": true,
-	"MainColor": "#9900FF",
-	"MainName": "[ cyber-fca ]", //হুদাই এই ফাইলের কোনো কাজ নাই , তারপরও লাগাই রখলাম । চাইলে আপনারা ডিলেট করে দিতে পারেন।
-	"Uptime": false,
-	"Config": "default",
-	"DevMode": false,
-	"Login2Fa": false,
-	"AutoLogin": false,
-	"BroadCast": true,
-	"AuthString": "SD4S XQ32 O2JA WXB3 FUX2 OPJ7 Q7JZ 4R6Z | https://i.imgur.com/RAg3rvw.png Please remove this !, Recommend If You Using getUserInfoV2",
-	"EncryptFeature": false,
-	"ResetDataLogin": false,
-	"AutoInstallNode": false,
-	"AntiSendAppState": true,
-	"AutoRestartMinutes": 0,
-	"RestartMQTT_Minutes": 0,
-	"Websocket_Extension": {
-		"Status": false,
-		"ResetData": false,
-		"AppState_Path": "appstate.json"
-	},
-	"HTML": {
-		"HTML": true,
-		"UserName": "Guest",
-		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
-	},
-	"AntiGetInfo": {
-		"Database_Type": "default",
-		"AntiGetThreadInfo": true,
-		"AntiGetUserInfo": true
-	},
-	"Stable_Version": {
-		"Accept": false,
-		"Version": ""
+[
+    {
+        "key": "datr",
+        "value": "WsSxaSI-sJ666EsM1YksPzhR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.925Z",
+        "lastAccessed": "2026-03-11T19:41:37.925Z"
+    },
+    {
+        "key": "sb",
+        "value": "WsSxaXyRHBc1RC8iNE0AeZgA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.932Z",
+        "lastAccessed": "2026-03-11T19:41:37.932Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "3.1644792556762695",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.932Z",
+        "lastAccessed": "2026-03-11T19:41:37.932Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x895",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.932Z",
+        "lastAccessed": "2026-03-11T19:41:37.932Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61554687820279",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.932Z",
+        "lastAccessed": "2026-03-11T19:41:37.932Z"
+    },
+    {
+        "key": "xs",
+        "value": "45%3AhDhQplatJraV6Q%3A2%3A1773257898%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.932Z",
+        "lastAccessed": "2026-03-11T19:41:37.932Z"
+    },
+    {
+        "key": "fr",
+        "value": "0v3LS7CvwSFxpWdeH.AWcx5cn6NWRx6_xHhUFXx158-ifT4zgUwLNY_kS1hCJ7beuhPso.BpscRa..AAA.0.0.BpscSw.AWej_MbdoM2T1KRuGkB2z5grv3g",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.932Z",
+        "lastAccessed": "2026-03-11T19:41:37.932Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.932Z",
+        "lastAccessed": "2026-03-11T19:41:37.932Z"
+    },
+    {
+        "key": "pas",
+        "value": "61554687820279%3Ady5TPqPYuv",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.932Z",
+        "lastAccessed": "2026-03-11T19:41:37.932Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3109%3Btimestamp%3A1773257904",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.932Z",
+        "lastAccessed": "2026-03-11T19:41:37.933Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101728197%3BT%3A29554298",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.933Z",
+        "lastAccessed": "2026-03-11T19:41:37.933Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B695x341x3.1644792556762695",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-11T19:41:37.933Z",
+        "lastAccessed": "2026-03-11T19:41:37.933Z"
+    }
+]		"Version": ""
 	},
 	"CheckPointBypass": {
 		"956": {
